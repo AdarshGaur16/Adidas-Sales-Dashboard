@@ -4,6 +4,7 @@ An interactive Power BI dashboard analyzing Adidas webstore shoe data to uncover
 This project demonstrates how data visualization and analytics can empower decision-making in inventory planning, pricing strategy, and market performance tracking.
 
 🧠 Project Focus
+
 •	❓ How many unique SKUs are available globally?
 •	💶 What’s the average price across different countries?
 •	🎨 Which categories, colors, and sizes are performing best?
